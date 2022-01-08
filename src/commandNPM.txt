@@ -1,0 +1,13 @@
+1- How to install enzyme : https://enzymejs.github.io/enzyme/
+npm i --save-dev @types/enzyme
+
+2- How to install enzyme-adapter-react-17 : https://www.npmjs.com/package/@wojtekmaj/enzyme-adapter-react-17
+npm install --save-dev @wojtekmaj/enzyme-adapter-react-17
+
+3- How to install enzyme-to-json : https://www.npmjs.com/package/enzyme-to-json
+npm install --save-dev enzyme-to-json
+
+
+4- How to install React Hooks Testing Library : https://react-hooks-testing-library.com/installation
+npm install --save-dev @testing-library/react-hooks
+
